@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
+##
 -  🔎 Estou na busca do meu primeiro emprego!
 - 🌱 Atualmente estou no curso FullStack da labenu
 - ⚡ Amo jogos, filmes, animes, jogos de tabuleiro e café.
-
+##
 <div align="center">
   <a href="https://github.com/Mouramattheus">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Mouramattheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
