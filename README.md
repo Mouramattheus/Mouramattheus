@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 ##
 -  🔎 Estou na busca do meu primeiro emprego!
-- 🌱 Atualmente estou no curso FullStack da labenu
 - ⚡ Amo jogos, filmes, animes, jogos de tabuleiro e café.
 ##
 <div align="center">
